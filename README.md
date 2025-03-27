@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subodh Salgaonkar</h1>
-<h3 align="center">I'm a passionate developer with a love for problem-solving and creating innovative solutions. My expertise spans full-stack development, where I enjoy bringing ideas to life, whether it's building complex web applications or developing interactive games. I thrive on learning new technologies and tackling challenges head-on, always aiming to expand my skill set and deliver high-quality results. My dedication to continuous improvement and my ability to work independently make me a valuable contributor in any tech-driven environment.</h3>
+<h3 align="center">I am passionate about problem-solving and enjoy exploring new technologies. I have a strong love for coding and have completed full-stack web development projects and mobile app development projects. I am highly adaptable, with the ability to quickly learn and apply new technologies. I enjoy thinking analytically and writing efficient, logical code to solve complex problems. I also love bringing my imagination to life by turning ideas into functional applications through code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subu114&label=Profile%20views&color=0e75b6&style=flat" alt="subu114" /> </p>
 
